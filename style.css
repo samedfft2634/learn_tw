@@ -40,3 +40,11 @@ main {
     border-radius: 50%;
     padding-top: .4rem;
 }
+
+
+.footer-links {
+    a {
+      padding-bottom: 2px;
+    }
+  }
+  
