@@ -47,4 +47,18 @@ main {
       padding-bottom: 2px;
     }
   }
-  
+
+.circles{
+    position: absolute;
+    top: 15rem;
+    left: -3rem;
+    width: 30%;
+}
+
+.circles1{
+    position: absolute;
+    top: 5rem;
+    right: -2rem;
+    width: 20%;
+    transform: rotate(300deg);
+}
